@@ -44,5 +44,4 @@ int main() {
     shuffle(a);
     printf("Array disordinato: ");
     stampa(a);
-
 }
